@@ -1,0 +1,126 @@
+hyperskill_project:
+  id: 87
+  ide_files: https://stepik.org/media/attachments/lesson/271195/additional_files.json
+  is_template_based: false
+  use_ide: true
+stages:
+- id: 480
+  step: 7786
+- id: 481
+  step: 7787
+- id: 482
+  step: 7788
+- id: 483
+  step: 7789
+- id: 484
+  step: 7790
+- id: 485
+  step: 7791
+topics:
+  0:
+  - title: Units of information
+    theory_id: 6865
+  - title: Binary numbers
+    theory_id: 5544
+  - title: Introduction to Kotlin
+    theory_id: 4350
+  - title: Basic literals
+    theory_id: 4351
+  - title: Overview of the basic program
+    theory_id: 4362
+  - title: Values and variables
+    theory_id: 4371
+  - title: Data types
+    theory_id: 4388
+  - title: Standard output
+    theory_id: 4425
+  - title: Arithmetic operations
+    theory_id: 4472
+  - title: Boolean and logical operations
+    theory_id: 4515
+  - title: Invoking functions
+    theory_id: 4575
+  - title: Standard input
+    theory_id: 4445
+  - title: Integers in action
+    theory_id: 4488
+  - title: Relational operators
+    theory_id: 4525
+  - title: Characters
+    theory_id: 4680
+  - title: The classification of basic types
+    theory_id: 4455
+  - title: Strings
+    theory_id: 4540
+  - title: Arrays
+    theory_id: 4564
+  - title: Ranges
+    theory_id: 4633
+  - title: If expression
+    theory_id: 4625
+  - title: Repeating blocks
+    theory_id: 4643
+  - title: For loop and ranges
+    theory_id: 4652
+  - title: For loop and arrays
+    theory_id: 4657
+  - title: Introduction to matrices
+    theory_id: 7112
+  - title: Type of matrices
+    theory_id: 7285
+  - title: Operations with matrices
+    theory_id: 7296
+  2:
+  - title: IDE
+    theory_id: 3805
+  - title: Coding style conventions
+    theory_id: 4419
+  - title: Naming variables
+    theory_id: 4389
+  - title: Declaring functions
+    theory_id: 4580
+  - title: Floating-point types
+    theory_id: 4502
+  - title: When expression
+    theory_id: 4631
+  - title: Matrix Multiplication
+    theory_id: 7372
+  - title: IntelliJ IDEA
+    theory_id: 3801
+  - title: IDEA Basics
+    theory_id: 5819
+  - title: EduTools
+    theory_id: 5839
+  3:
+  - title: Introduction to OOP
+    theory_id: 3614
+  - title: Objects
+    theory_id: 6773
+  - title: String templates
+    theory_id: 4547
+  - title: Functions as objects
+    theory_id: 5991
+  - title: Declaring classes
+    theory_id: 6200
+  - title: Constructors
+    theory_id: 6237
+  - title: Member functions
+    theory_id: 6364
+  - title: Properties accessors
+    theory_id: 7362
+  - title: Inheritance
+    theory_id: 7770
+  - title: Overriding functions
+    theory_id: 7884
+  - title: Data class
+    theory_id: 8526
+  4:
+  - title: Computer algorithms
+    theory_id: 4953
+  - title: Recursion basics
+    theory_id: 5984
+  - title: A determinant of a matrix
+    theory_id: 9184
+  5:
+  - title: The Math library
+    theory_id: 4563
